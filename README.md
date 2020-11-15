@@ -1,12 +1,16 @@
 # AI_Art
-Dependencies
-Numpy (http://www.numpy.org/)
-Keras (http://keras.io/#installation)
-Scipy (https://www.scipy.org/install.html)
-Theano (http://deeplearning.net/software/theano/install.html#install)
-h5py (http://docs.h5py.org/en/latest/build.html)
-sklearn (http://scikit-learn.org/stable/install.html)
-Pillow (https://pillow.readthedocs.io/en/latest/installation.html)
-CUDA (GPU) (http://docs.nvidia.com/cuda/cuda-getting-started-guide-for-mac-os-x/)
-CUDNN (GPU) (https://developer.nvidia.com/cudnn)
-VGG16 file https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing
+This repository comprises of the code explained in the blog 
+https://medium.com/@karishmahekk/ai-art-reforming-traditional-arts-7833a6cbac56
+<br />
+<br />
+### DEPENDENCIES <br />
+1) Numpy  <br />
+2) Keras<br />
+3) Scipy<br />
+4) Theano <br />
+5) h5py<br />
+6) sklearn <br />
+7) Pillow <br />
+8) CUDA (GPU)<br />
+9) CUDNN (GPU) <br />
+10) VGG16 file 
